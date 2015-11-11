@@ -5,7 +5,7 @@ What is the purpose of your project (i.e., why would someone use this app)?
 - My webpage allows users to login and create their own playlist saved on their account.
 
 What is the URL of this project on your student web-server?
-- 
+- http://students.washington.edu/jamesl5/info343/spotify-template/
 
 Did you receive help from any other sources (classmates, etc.)? If so, please list who.
 - Mostly from websites.
