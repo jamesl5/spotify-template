@@ -26,6 +26,7 @@ body {
 #emptyPlaylist{
 	background-color:rgba(0, 0, 0, 0.5);
 	border-radius: 5px;
+	margin: 5px;
 }
 #playlistItem{
 	background-color:rgba(0, 0, 0, 0.5);
@@ -54,6 +55,7 @@ li{
 #playlist{
 	font-size: 14px;
 }
+
 #trackName{
 	font-weight: 600;
 }
