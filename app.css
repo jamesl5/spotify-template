@@ -1,3 +1,59 @@
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
+
+header{
+	padding: 1em;
+}
+h1{
+	text-align:center;
+}
 body {
-  padding:10px;
+	background-image: url(final.png);
+	background-size: 100%, auto;
+    background-repeat: no-repeat;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding:10px;
+    background-color: black;
+    color: white;
+}
+#playlistContainer{
+	background-color:rgba(255, 0, 0, 0.5);
+	border-radius: 5px;
+	padding: 5px;
+}
+#emptyPlaylist{
+	background-color:rgba(0, 0, 0, 0.5);
+	border-radius: 5px;
+}
+#playlistItem{
+	background-color:rgba(0, 0, 0, 0.5);
+	color:white;
+	cursor: pointer;
+}
+.modal-backdrop.in {
+    opacity: 0.9;
+}
+li img{
+	height: 150px;
+	cursor: pointer;
+	margin: 5px;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	border-radius: 5px;
+	background-color: white;
+	color: black;	
+}
+#help-block{
+	font-size:1.5em;
+}
+#playlist{
+	font-size: 14px;
+}
+#trackName{
+	font-weight: 600;
 }
